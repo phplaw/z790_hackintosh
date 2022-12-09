@@ -52,3 +52,5 @@ EFI/OC/Drivers/OpenRuntime.efi
 ```
 For futher works after installed hackintosh, recommend to read this https://dortania.github.io/OpenCore-Post-Install/#how-to-follow-this-guide
 If you do not complete install your hackintosh, then you have to read this https://dortania.github.io/OpenCore-Install-Guide/
+
+We also need to read this for understand how to debug in Opencore [OpenCore Debugging](https://dortania.github.io/OpenCore-Install-Guide/troubleshooting/debug.html#file-swaps)
