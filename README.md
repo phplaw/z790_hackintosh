@@ -21,6 +21,10 @@ FFFFFFFF 00000000 00000000 00000000
 
 For setting up the **SMBIOS** info, we will need this tool `GenSMBIOS` or just using app `OpenCore Configurator` are fine.
 
+But we have to care about chose right SMBIOS for your hackintosh to make PMC works, here is where you should read about chose right SMBIOS
+
+https://dortania.github.io/OpenCore-Install-Guide/extras/smbios-support.html
+
 Some OpenCore Variable we need to have an eye on them are
 SecureBootModel => Default, Disabled
 AppleXcpmCfgLock => TRUE/FALSE
