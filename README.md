@@ -34,6 +34,12 @@ AppleXcpmCfgLock => TRUE/FALSE
 `Misc > Boot| Debug` => `Target:67 ...`
 
 `Misc > Security` => `SecureBootModel:Default, Disabled` `(Dmg Loading = Signed|Disabled)`
+If you like to disable debug thenn set these configs
+```
+AppleDebug = NO
+ApplePanic = NO
+Target = 0
+```
 ### After complete install hackintosh, you have to do some fix for your system. Below are some usual issues: 
 [# Optimizing Power Management](https://dortania.github.io/OpenCore-Post-Install/universal/pm.html)
 
