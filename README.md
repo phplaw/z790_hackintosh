@@ -61,3 +61,5 @@ We also need to read this for understand how to debug in Opencore [OpenCore Debu
 
 ### Optimizing Power Management
 https://dortania.github.io/OpenCore-Post-Install/universal/pm.html
+### Hackintosh could wake up but monitor is black when monitor connect via usb-c
+You have to do a patch for ssd here https://github.com/osy/USBWakeFixup 
